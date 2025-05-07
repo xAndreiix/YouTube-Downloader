@@ -2,7 +2,7 @@ import os
 import yt_dlp
 
 # Link YouTube
-url = "https://www.youtube.com/watch?v=PaXXwyA9aYE&ab_channel=TOHOanimation%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+url = # "Here insert your own URL"
 
 # Calea de descărcare
 desktop_path = os.path.expanduser("~/Desktop")
